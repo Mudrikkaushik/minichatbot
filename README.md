@@ -8,4 +8,14 @@ Features of the Model -:
      ![Screenshot (75)](https://user-images.githubusercontent.com/52999830/118031498-3b7c7800-b384-11eb-899d-9a24d4d52835.png)
     c.) Songs: 
     ![Screenshot (77)](https://user-images.githubusercontent.com/52999830/118032269-1a685700-b385-11eb-93d9-fe40c0ca4fa1.png)
-    So that is how the modal works
+    So that is how the modal works  
+    ![ezgif com-gif-maker](https://user-images.githubusercontent.com/52999830/118035285-a465ef00-b388-11eb-954e-5c96bb4bf392.gif)   
+    
+
+
+
+
+
+
+
+
